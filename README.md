@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to create a live chart using the Syncfusion Blazor Chart component. The application renders a Blazor Line Chart and continuously updates the displayed data to simulate a real-time visualization scenario. This approach is useful when representing frequently changing values such as monitoring data, live measurements, operational metrics, or continuously refreshed datasets.
+This sample demonstrates how to create a live chart using the Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component. The application renders a Blazor Line Chart and continuously updates the displayed data to simulate a real-time visualization scenario. This approach is useful when representing frequently changing values such as monitoring data, live measurements, operational metrics, or continuously refreshed datasets.
 
 The project is implemented as a Blazor application and showcases a live-updating chart experience using the Syncfusion charting components.
 
